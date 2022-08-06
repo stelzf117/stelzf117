@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="24" alt="CSS3">
 </p>
 <br>
-<br>
+
 **Последние учебные проекты**
 <a href="https://stelzf117.github.io/mesto-project/">Место</a> <br>
 <a href="https://stelzf117.github.io/russian-travel/">Russian travel</a> <br>
