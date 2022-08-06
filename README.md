@@ -14,6 +14,6 @@
 </p>
 <br>
 
-<a href="https://stelzf117.github.io/mesto-project/">Место</a>
-<a href="https://stelzf117.github.io/russian-travel/">Russian travel</a>
-<a href="https://stelzf117.github.io/how-to-learn/">Научиться учиться</a>
+<a href="https://stelzf117.github.io/mesto-project/">Место</a> <br>
+<a href="https://stelzf117.github.io/russian-travel/">Russian travel</a> <br>
+<a href="https://stelzf117.github.io/how-to-learn/">Научиться учиться</a> <br>
