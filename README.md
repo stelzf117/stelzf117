@@ -12,3 +12,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="24" alt="CSS3">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="24" alt="CSS3">
 </p>
+<br>
+
+<a href="https://stelzf117.github.io/mesto-project/">Место</a>
+<a href="https://stelzf117.github.io/russian-travel/">Russian travel</a>
+<a href="https://stelzf117.github.io/how-to-learn/">Научиться учиться</a>
