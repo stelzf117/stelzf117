@@ -14,7 +14,7 @@
 </p>
 
 **Последние учебные проекты** <br>
-<a href="https://stelzf117.github.io/prozhitoOrg/">projito.org</a>
+<a href="https://stelzf117.github.io/prozhitoOrg/">projito.org</a> <br>
 <a href="https://stelzf117.github.io/mesto-project/" target="_blank">Место</a> <br>
 <a href="https://stelzf117.github.io/russian-travel/" target="_blank">Russian travel</a> <br>
 <a href="https://stelzf117.github.io/how-to-learn/" target="_blank">Научиться учиться</a> <br>
