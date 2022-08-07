@@ -4,7 +4,7 @@
 🔹 для этого я каждый день тренеруюсь по 2-6 часов 🕜 <br>
 🔹 верстаю учебные проекты (ссылки находятся внизу) <br>
 
-**Технологии которыми владею**
+**Технологии**
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35" alt="JS">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35" alt="HTML5">
