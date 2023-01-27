@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="35" alt="CSS3">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="35" alt="CSS3">
   <img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" height="35" alt="БЭМ">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/33045377/2507930-middle.png" height="35" alt="React">
+  <img src="https://media.slid.es/uploads/528830/images/3168944/react-logo-white.png" height="35" alt="React">
 </p>
 
 **Последние учебные проекты (ссылки на GitHub pages)** <br>
