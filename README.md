@@ -14,7 +14,7 @@
   <img src="icons/react.svg" height="40" alt="React">
 
 **Что сейчас изучаю** <br>
-  <img src="icons/redux.svg" height="50" alt="Redux">
+  <img src="icons/redux.svg" height="40" alt="Redux">
 
 **Последние учебные проекты (ссылки на GitHub pages)** <br>
 
@@ -24,4 +24,4 @@
   🔹 <a href="https://stelzf117.github.io/how-to-learn/" target="_blank">Научиться учиться</a> <br>
 
 **Связь со мной** <br>
-<a href="https://t.me/Supernova5007"><img src="icons/telegram.svg" alt="telegram" height="20">Telegram </a>
+<p><a href="https://t.me/Supernova5007"><img src="icons/telegram.svg" alt="telegram" height="20">Telegram </a></p>
