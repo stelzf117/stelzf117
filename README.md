@@ -23,4 +23,4 @@
   📜 <a href="https://stelzf117.github.io/how-to-learn/" target="_blank">Научиться учиться</a> <br>
 
 **Связь со мной** <br>
-<a href="https://t.me/Supernova5007">Telegram </a>
+💬 <a href="https://t.me/Supernova5007">Telegram </a>
