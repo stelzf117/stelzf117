@@ -12,9 +12,10 @@
   <img src="icons/css.svg" height="35" alt="Css">
   <img src="icons/sass.svg" height="35" alt="Sass">
   <img src="icons/bem.svg" height="35" alt="БЭМ">
+  <img src="icons/redux.svg" height="35" alt="Redux">
 
 **Что сейчас изучаю** <br>
-  <img src="icons/redux.svg" height="35" alt="Redux">
+  <img src="https://datatex.com/wp-content/uploads/2019/04/websockets.png" height="35" alt="Redux">
 
 **Последние учебные проекты (ссылки на GitHub pages)** <br>
   📜 <a href="stelzf117.github.io/react-burger/" target="_blank">Stellar burgers</a> <br>
